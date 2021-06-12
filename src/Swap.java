@@ -10,7 +10,7 @@
  */
 public class Swap {
 
-    static int[] a = {3,2,1};
+    static int[] a = {1,2,3,4};
     static int ans = 0;
     static int cnt = 0;
     
